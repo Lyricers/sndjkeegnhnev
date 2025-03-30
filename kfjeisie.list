@@ -4,33 +4,16 @@ DOMAIN,misty.cx
 DOMAIN,cdn.lyrebirdemby.com
 DOMAIN,free.28.al
 DOMAIN,favoritewife.com
-DOMAIN,qdz-de.vfing.de
-DOMAIN,qdz-hk-0.vfing.de
-DOMAIN,qdz-hk-1.vfing.de
 DOMAIN,cdn.qzuie.top
 DOMAIN,yd.28.al
-DOMAIN,film.recmata.net
-DOMAIN,flick.recmata.net
-DOMAIN,lumini.recmata.net
-DOMAIN,vision.recmata.net
-DOMAIN,a.emby.my
-DOMAIN,b.emby.my
-DOMAIN,shanghai.emby.my
 DOMAIN,cf.imetyou.top
 DOMAIN,embyplus.org
 DOMAIN,hkb-emby.aliz.work
 DOMAIN,cf.xmsl.org
 DOMAIN,embymv.link
-DOMAIN,a.985211.link
-DOMAIN,b.985211.link
-DOMAIN,c.985211.link
-DOMAIN,d.985211.link
-DOMAIN,iemby.jingzhe.pro
-DOMAIN,emby.jingzhe.pro
 DOMAIN,emby.bangumi.ca
 DOMAIN,media.nijigem.by
 DOMAIN,emby.host
-DOMAIN,emby.nezha.su
 
 # 后缀匹配（适用于多个子域名的情况）
 DOMAIN-SUFFIX,vfing.de
@@ -43,6 +26,7 @@ DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,nezhasu.com
 
 # IP 匹配
 IP-CIDR,192.99.35.111/32
